@@ -1,0 +1,23 @@
+header	headline	OBJECTIVES Seeking entry level positions in a growth oriented company in the field of the infrastructure construction and consulting
+header	education	ACADEMIC QUALIFICATION Degree/ Certificates University / Institutes Passing Year Result (%) B.Tech in Civil Engineering Sarabhai Institute of Science and Technology (CUSAT ), Trivandrum 2015 70.5 (til 7thsem; last year result awaiting) Higher Secondary Certificate (HSC) Kerala Public School (CBSE), Vikas Puri, New Delhi 2011 77 Secondary School Certificate (SSC) Kerala Public School (CBSE) , Vikas Puri, New Delhi 2009 77   Resume: ARDRA   Page 2 | 8893246785
+header	education	ACADEMIC SEMINAR UNDERTAKEN Topic: Performance of Zycosoil on the Pavement
+header	education	ACADEMIC PROJECT UNDERTAKEN Project: Planning and designing of bus terminal cum commercial complex in East Fort (near Sree Padhmanabha Swami Temple), Trivandum
+header	others	PERSONALITY TRAITS   Hard working, punctual and responsible   Strong motivational and leadership skills   Excellent communication skills   Ability to perform under high pressure and against target deadlines
+header	others	PERSONAL DETAILS Name : Ardra Prasad Father’s name : N.V Prasad Mother’s name : Sunita Prasad Date of Birth : 23-12-1993 Nationality : India Sex : Female Marital Status : Single
+header	others	Language known : English, Hindi, Malayalam (speak, read and write)
+header	misc	PERSONALITY TRAITS   Hard working, punctual and responsible   Strong motivational and leadership skills   Excellent communication skills   Ability to perform under high pressure and against target deadlines
+header	misc	HOBBIES   Gardening   Playing badminton and caroms   Internet browsing
+header	knowledge	COMPUTER KNOWLEDGE   AutoCAD 2D   STAAD Pro
+header	knowledge	  Programming language: C , C++   MS Office
+header	knowledge	Language known : English, Hindi, Malayalam (speak, read and write)
+header	licenses and certifications	CERTIFICATION AutoCAD 2012 Certified Professional
+header	achievements	ACHIEVEMENTS 1
+header	achievements	Best KHO-KHO player of my school 2
+header	achievements	Performed dance in closing ceremony of Common Wealth Games 2011   Resume: ARDRA   Page 3 | ardraprasad93@gmail.com
+header	experience	EXPERIENCE Fresher
+header	declaration	DECLARATION I declare that the information and facts stated here in are true and correct to the best of my knowledge and belief.
+header	email	ardraprasad93@gmail.com
+header	email	ardraprasad93@gmail.com
+header	mobile	9891423551
+header	mobile	9650459770
+header	mobile	8893246785
